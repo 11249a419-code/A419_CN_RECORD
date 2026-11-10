@@ -1,0 +1,6 @@
+Example only — output varies by computer and network.
+Command: hostname
+Output: student-pc
+
+Command: ping -c 4 example.com
+Output style: 4 packets transmitted, 4 received, 0% packet loss
